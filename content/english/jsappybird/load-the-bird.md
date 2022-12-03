@@ -1,7 +1,7 @@
 ---
 title: "Load the bird image & change the screen text"
 date: 2020-02-10T13:24:17-07:00
-draft: false
+draft: true
 hidden: true
 weight: 2
 ---
