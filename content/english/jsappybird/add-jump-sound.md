@@ -2,6 +2,7 @@
 title: "Add sound while the bird is jumping & bonus"
 date: 2020-07-29T13:24:17-07:00
 draft: false
+hidden: true
 weight: 5
 ---
 
